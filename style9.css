@@ -1,0 +1,16 @@
+/* Documento CSS */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+p{
+	color:#ff0000;
+	font-weight:bold;
+}
+
+p em{
+	color:#0000ff;
+	font-weight:normal;
+}
